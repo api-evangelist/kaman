@@ -1,0 +1,21 @@
+{
+  "repo": "kaman",
+  "feeds": [
+    {
+      "source": "https://kaman.com/feed/",
+      "feed_url": "https://kaman.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.kaman.com",
+      "feed_url": "https://kaman.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 16
+}
