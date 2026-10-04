@@ -1,6 +1,6 @@
 aid: kaman
 url: https://raw.githubusercontent.com/api-evangelist/kaman/refs/heads/main/apis.yml
-name: Kaman Corporation
+name: Kaman
 type: Index
 deliveryModel:
   model: unknown
@@ -62,3 +62,4 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-legal-name: Kaman Corporation
