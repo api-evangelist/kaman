@@ -2,13 +2,6 @@
   "repo": "kaman",
   "feeds": [
     {
-      "source": "https://www.kaman.com",
-      "feed_url": "https://kaman.com/feed/",
-      "title": "",
-      "saved": 0,
-      "method": "discovered"
-    },
-    {
       "source": "https://kaman.com/feed/",
       "feed_url": "https://kaman.com/feed/",
       "title": "",
@@ -16,7 +9,7 @@
       "method": "feed"
     }
   ],
-  "fetched": "2026-10-03T12:30:02Z",
+  "fetched": "2026-10-10T13:15:00Z",
   "post_count": 16,
   "feed_nature": "undetermined",
   "feed_nature_basis": null,
